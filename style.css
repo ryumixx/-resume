@@ -1,0 +1,87 @@
+body{
+    background-color: antiquewhite;
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+.block2{
+    display: block;
+    margin-left: 80px;
+}
+
+.photo{
+    margin-left: 300px;
+    margin-top: 50px;
+    
+}
+.text{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+.qwe{
+ display: flex;
+}
+.block-text{
+    display: block;
+}
+.obraz{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 150px;
+    
+}
+
+.obraz p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.exp{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 150px;
+    
+}
+.exp p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+.skills{
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 150px;
+}
+
+.skills p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.lsk{
+    margin-top: 100px;
+}
+
+.lsk p{
+    font-size: 18px;
+    font-weight: bold;
+}
+.profk{
+    margin-top: 380px;
+}
+
+.profk p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
