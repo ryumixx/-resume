@@ -1,0 +1,111 @@
+a{
+    text-decoration: none;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+.block{
+    display: flex;
+}
+
+.block2{
+    display: block;
+    margin-left: 80px;
+}
+
+.photo{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.about-me{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.education{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 150px;
+}
+
+.education p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.experience{
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 150px;
+}
+
+.experience p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.skills{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 150px;
+}
+
+.skills p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.personal-qualities{
+    margin-top: 100px;
+}
+
+.personal-qualities p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.languages{
+    margin-top: 150px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.languages p{
+    font-size: 22px;
+    font-weight: bold;
+
+}
+.dotg{
+    height: 15px;
+    width: 15px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.professional-quality{
+    margin-top: 380px;
+}
+
+.professional-quality p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
